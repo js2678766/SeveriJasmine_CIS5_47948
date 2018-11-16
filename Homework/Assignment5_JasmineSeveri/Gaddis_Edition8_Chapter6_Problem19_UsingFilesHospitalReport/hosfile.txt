@@ -1,0 +1,5 @@
+How many days did the patient spend in the hospital? 2
+What is the daily rate for the hospital? $2
+What were the total charges for their medications? $2
+What were the total charges for any other services they received (lab tests, etc.)? $2
+The patient's total charges = $8
